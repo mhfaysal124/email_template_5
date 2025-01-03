@@ -6,7 +6,7 @@
                 box-shadow: 2px 2px 36px 9px rgba(0, 0, 0, 0.589);
                 margin: 0 auto; justify-content: center; padding: 20px; font-size: 40px;">
         <a href="">Facebook</a>
-        <a href=""><i class="fa fa-linkedin"></i></a>
+        <a href="">LinkedIn</a>
         <a href=""><i class="fa fa-github"></i></a>
         <a href=""><i class="fa fa-instagram"></i></a>
         <a href=""><i class="fa fa-twitter"></i></a>
