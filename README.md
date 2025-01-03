@@ -2,14 +2,12 @@
 <div style="font-family: sans-serif;">
     <h2>Live: <a href="">Preview</a></h2>
     <h2>Design and Develop By: <a href="#">MH Faysal</a></h2>
-    <h2 style="display: flex; gap: 30px; 
-                box-shadow: 2px 2px 36px 9px rgba(0, 0, 0, 0.589);
-                margin: 0 auto; justify-content: center; padding: 20px; font-size: 40px;">
-        <a href="">Facebook</a>
-        <a href="">LinkedIn</a>
-        <a href=""><i class="fa fa-github"></i></a>
-        <a href=""><i class="fa fa-instagram"></i></a>
-        <a href=""><i class="fa fa-twitter"></i></a>
-        <a href=""><i class="fa fa-whatsapp"></i></a>
+    <h2>
+        <a href="">Facebook ||</a>
+        <a href="">LinkedIn || </a>
+        <a href="">GitHub || </a>
+        <a href="">Instagram || </a>
+        <a href="">Twitter ||></a>
+        <a href=""> WhatsApp</i></a>
     </h2>
 </div>
