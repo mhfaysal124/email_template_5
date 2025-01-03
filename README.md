@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-</head>
-<body>
-   
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <div style="font-family: sans-serif;">
     <h2>Live: <a href="">Preview</a></h2>
     <h2>Design and Develop By: <a href="#">MH Faysal</a></h2>
@@ -22,6 +13,3 @@
         <a href=""><i class="fa fa-whatsapp"></i></a>
     </h2>
 </div>
-   
-</body>
-</html>
